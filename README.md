@@ -43,6 +43,6 @@ Like many user inputs filtering data, exact matches are required or no match is 
 
 ## Recommendations
 
-First, fixing the aforementioned drawback by allowing input to match regardless of capitalization. This would be done by using regular expressions. 
+First, fixing the aforementioned drawback by allowing input to match regardless of capitalization. This would be done by using regular expressions. There could also be added flexibility with datetime format by possibly converting it to the correct format.
 
 Second, there could be a deeper connection to the content by adding images within the website related to different shapes of sightings. This would be inserted above the filter and table but below the paragraph section. 
